@@ -12,7 +12,6 @@ const doubled = arrayNumbers.map((num) => num * 2);
 console.log("double the array is:", doubled);
 
 // একটি অ্যারের মধ্যে সবথেকে বড় সংখ্যাটি খুঁজে বের করুন।
-
 const numbers = [10, 5, 8, 21, 3];
 let max = numbers[0];
 for (let i = 1; i < numbers.length; i++) {
